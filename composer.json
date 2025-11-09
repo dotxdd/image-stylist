@@ -1,0 +1,21 @@
+{
+    "name": "dotxdd/image-stylist",
+    "description": "An AI-powered fashion assistant to describe and analyze clothing for visually impaired users.",
+    "type": "library",
+    "require": {
+        "php": "^8.3",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dotxdd\\ImageStylist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gabriel.moskwa@outlook.com"
+        }
+    ]
+}
